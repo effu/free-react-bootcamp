@@ -7,50 +7,50 @@ The bootcamp will run from Monday, April 9th to Thursday, April 12th streaming l
 ## Monday, April 9th
 5:00 PM Pacific (8:00 PM Eastern)
 
-Why React?
-Composition
-Declarative UI
-Unidirectional Dataflow
-Explicit Mutations
-Your First Component
-React.createElement
-JSX
+* Why React?
+* Composition
+* Declarative UI
+* Unidirectional Dataflow
+* Explicit Mutations
+* Your First Component
+* React.createElement
+* JSX
 
 ## Tuesday, April 10th
 5:00 PM Pacific (8:00 PM Eastern)
 
-Props
-Performant Lists
-Pure Functions
-Function Composition
-Component State
-Updating State
-Functional Components
+* Props
+* Performant Lists
+* Pure Functions
+* Function Composition
+* Component State
+* Updating State
+* Functional Components
 
 ## Wednesday, April 11th
 5:00 PM Pacific (8:00 PM Eastern)
 
-Lifecycle Events
-componentDidMount
-componentWillUnmount
-getDerivedStateFromProps
-Ajax Requests
-Axios
-Controlled Components
-Uncontrolled Components
-Dynamic Rendering
+* Lifecycle Events
+* componentDidMount
+* componentWillUnmount
+* getDerivedStateFromProps
+* Ajax Requests
+* Axios
+* Controlled Components
+* Uncontrolled Components
+* Dynamic Rendering
 
 ## Thursday, April 12th
 5:00 PM Pacific (8:00 PM Eastern)
 
-Webpack
-Configuration
-HTMLWebpackPluginConfig
-Loaders
-Babel
-React Router
-Route Matching
-Query Params
+* Webpack
+* Configuration
+* HTMLWebpackPluginConfig
+* Loaders
+* Babel
+* React Router
+* Route Matching
+* Query Params
 
 If you'd like to say "thank you", your [Retweet](https://twitter.com/tylermcginnis/status/976164113956077569) or share would mean the world to me.
 
