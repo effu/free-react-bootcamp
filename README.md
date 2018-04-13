@@ -56,4 +56,42 @@ If you'd like to say "thank you", your [Retweet](https://twitter.com/tylermcginn
 
 [Tyler McGinnis](https://tylermcginnis.com)
 
+If you enjoy this and want to take one of Tyler's courses, you can find them at - [https://tylermcginnis.com/courses/](https://tylermcginnis.com/courses/)
 
+
+## Advanced React articles
+
+[Pass props to a component rendered by React Router](https://tylermcginnis.com/react-router-pass-props-to-components/)
+
+[Protected routes and authentication with React Router v4](https://tylermcginnis.com/react-router-protected-routes-authentication/)
+
+[REACT TRAINING / REACT ROUTER](https://reacttraining.com/react-router/web/example/basic)
+
+## Other Topics
+
+Higher Order Components
+
+Render Props
+
+New Context API for React
+
+Redux and MobX
+
+
+
+
+## Other Resources
+
+[Grid Critters - CSS Grid is game-changing](https://www.gridcritters.com/)
+
+[Learn Flexbox with Flexbox Zombies](https://mastery.games/p/flexbox-zombies)
+
+[https://lambdaschool.com/](https://lambdaschool.com/)
+
+[https://www.freecodecamp.org/](https://www.freecodecamp.org/)
+
+## Podcasts
+
+[Hubspot]
+
+[Tim Ferris]
