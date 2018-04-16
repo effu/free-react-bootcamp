@@ -1,6 +1,6 @@
 # Free React bootcamp by [Tyler McGinnis](https://tylermcginnis.com)
 
-April 2018
+April 2018 // [Video Playlist with all 4 days](https://www.youtube.com/watch?v=8GXXGJRDMdQ&list=PLqrUy7kON1mfWjiu0GWQhefWSx38v0UGo)
 
 The bootcamp will run from Monday, April 9th to Thursday, April 12th streaming live every day at 5:00 PM Pacific. Each session will run anywhere from 1 to 2 hours. Before each session, you'll receive an email containing instructions to access the live stream as well as any learning material you'll need.
 
@@ -40,7 +40,7 @@ The bootcamp will run from Monday, April 9th to Thursday, April 12th streaming l
 * Uncontrolled Components
 * Dynamic Rendering
 
-## Thursday, April 12th
+## Thursday, April 12th // [Day 4 Video](https://www.youtube.com/watch?v=alZur1g2Cnw)
 5:00 PM Pacific (8:00 PM Eastern)
 
 * Webpack
